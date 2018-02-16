@@ -1,0 +1,6 @@
+C:\Users\elev\Documents\GitHub\Prog2-Utmaningar\utmaning 3\utmaning 3\bin\Debug\utmaning 3.exe.config
+C:\Users\elev\Documents\GitHub\Prog2-Utmaningar\utmaning 3\utmaning 3\bin\Debug\utmaning 3.exe
+C:\Users\elev\Documents\GitHub\Prog2-Utmaningar\utmaning 3\utmaning 3\bin\Debug\utmaning 3.pdb
+C:\Users\elev\Documents\GitHub\Prog2-Utmaningar\utmaning 3\utmaning 3\obj\Debug\utmaning 3.csprojResolveAssemblyReference.cache
+C:\Users\elev\Documents\GitHub\Prog2-Utmaningar\utmaning 3\utmaning 3\obj\Debug\utmaning 3.exe
+C:\Users\elev\Documents\GitHub\Prog2-Utmaningar\utmaning 3\utmaning 3\obj\Debug\utmaning 3.pdb
